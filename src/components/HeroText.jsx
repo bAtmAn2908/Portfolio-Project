@@ -1,4 +1,4 @@
-import { FlipWords } from "./Flipwords"
+import { FlipWords } from "./FlipWords"
 
 const HeroText = () => {
   return (
