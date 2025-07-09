@@ -16,7 +16,7 @@ const HeroText = () => {
             </div>
         </div>
         {/* MobileView */}
-        <div className=""> 
+        <div className="flex- flex-col space-y-6"> 
 
         </div>
     </div>
